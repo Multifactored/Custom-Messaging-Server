@@ -26,4 +26,4 @@ Usage:
 
 Yeah, uh, it's cool. Please don't use it though. Here's some sample Server output.
 
-![bruh.png]
+![bruh.png](https://github.com/Multifactored/Custom-Messaging-Server/blob/master/bruh.png)
