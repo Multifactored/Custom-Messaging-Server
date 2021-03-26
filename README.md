@@ -1,7 +1,7 @@
 # Multithreaded Custom Messaging Server in Java
 Developed by @Multifactored
 
-This repo contains two programs. The first (server.java) is an application that hosts the server of the chat application. The second is the client program to connect with the server with credentials. Logged in clients can communicate with each other. This was designed on, and for Debian distros running javac.
+This repo contains two programs. The first (server.java) is an application that hosts the server of the chat application. The second is the client program to connect with the server with credentials. Logged in clients can communicate with each other. This was designed on, and for Debian Linux distros running javac.
 
 It has a range of more advanced features, such as:
 * Account management on the main server, credential validation
