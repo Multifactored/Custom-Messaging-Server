@@ -24,4 +24,6 @@ Usage:
 
 ## Brief Documentation
 
-Yeah, uh, it's cool. Please don't use it though.
+Yeah, uh, it's cool. Please don't use it though. Here's some sample Server output.
+
+![bruh.png]
