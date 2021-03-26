@@ -19,6 +19,8 @@ Usage:
 * `java Server [port] [block_duration] [timeout]` 
 * `java Client [IP/localhost] [port]`
 
+You need a credentials csv file.
+
 ## Contact
 * Wisley Chau : multifactored@gmail.com
 
